@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { FaInstagram } from "react-icons/fa";
 import { CiFacebook } from "react-icons/ci";
 import { CiLinkedin } from "react-icons/ci";
@@ -16,19 +16,16 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.instagram.com/akshat_up_72?igsh=MTJ3NWpqZDc3bGljYw==" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.facebook.com/share/19pLSHwDMF/" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/akshat-srivastava-6ba645237/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
-            <FaSquareXTwitter className="icons" />
-          </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/akshat1496" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a

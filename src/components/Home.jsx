@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import  { useEffect, useRef } from "react";
 import pdf from "../pdf/resume.pdf";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
@@ -10,7 +10,8 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Akshat Srivastava",
-        "I'm Web developer",
+        "A Web developer Enthusiast (React.js)",
+        "Solved over 600 questions of DSA",
         // "Androide Developer (React Native)",
       ],
       typeSpeed: 50,
